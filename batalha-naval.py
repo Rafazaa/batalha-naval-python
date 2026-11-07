@@ -1,17 +1,4 @@
-#Esse jogo é Para melhorar minha base em alguns fundamentos do meu curso de Engenharia de Software, sendo eles:
-""" 
-1. Matrizes
-
-2. Algoritmos
-
-3. Estrutura de dados
-
-4. Logica 
-
-5. Modularização
-
-6. Boas praticas
-"""
+# Inicio do jogo
 def Inicio():
 
     N = int(input("Digite o Tamanho do mapa de 4 A 6: "))
@@ -27,7 +14,7 @@ def Inicio():
     return N
 
 """ Construção do mapa...
-Aqui preciso construir uma matris com loops para facilitar... criar um loop para o Eixo X e Y, com uma logica para imprimir as cordenadas da matriz"""
+Aqui preciso construir uma matriz com loops para facilitar... criar um loop para o Eixo X e Y, com uma logica para imprimir as cordenadas da matriz"""
 N = Inicio()
 
 print(end="  ")

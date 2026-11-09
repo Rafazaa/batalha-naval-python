@@ -5,7 +5,7 @@ Um jogo de termninal que o usuario digita um numero de 4 a 6 para criar o mapa 4
 ## Como Inicializar
 No teu terminal (ou usando "`Ctrl + `" no VS Code), executa:
 
- -- py batalha-naval.py
+"`py batalha-naval.py`"
 
 
 ## Objetivos

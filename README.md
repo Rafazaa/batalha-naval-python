@@ -25,3 +25,11 @@ No teu terminal (ou usando "`Ctrl + `" no VS Code), executa:
 5. Modularização
 
 6. Boas praticas
+
+## Próximos Passos
+
+Assim que finalizar a ideia inicial desse jogo, estou pensando em começar a estudar e experimentar implementá-lo com meu próprio motor gráfico. Sem promessas, puramente por curiosidade e estudos. Pretendo desenvolver esses próximos passos em C++.
+
+Fiquei bem entusiasmado principalmente vendo os vídeos do [@UnidayStudio](https://www.youtube.com/@UnidayStudio), que criou o próprio motor gráfico dele... achei muito interessante. Logicamente, trazendo para a minha realidade, ainda tenho muito a estudar e aprender antes de ter um check final, mas acho que para estudos não deve ter problema sonhar.
+
+A ideia em si não será focar no jogo, mas sim em entender como um motor gráfico funciona, os problemas mais comuns, a lógica e a matemática por trás disso tudo.

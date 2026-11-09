@@ -57,7 +57,7 @@ def Inimigos(inimigo):
     
 
 
-# Base
+# Render
 tamanho_escolhido = Inicio()
 Inimigos(tamanho_escolhido)
 Mapa(tamanho_escolhido)
